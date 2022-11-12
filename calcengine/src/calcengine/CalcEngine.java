@@ -1,13 +1,12 @@
 package calcengine;
 
 public class CalcEngine {
-
-	
-			public static void main(String[] args) {
+	public static void main (String[] args) {
 				sdf
 			        performCalculations();
 			        System.out.print("df");
 			        System.out.print("df");
+					Ydemethod();
 			}
 			   
 
@@ -51,4 +50,12 @@ public class CalcEngine {
 			    
 	}
 
+}
+
+
+public static double Ydemethod() {
+	double arr [8][8];
+	for(i=0, i<arr.length, i++) {
+		System.out.println('Java is cool')
+	}
 }
