@@ -11,8 +11,7 @@ public class CalcEngine {
 				System.out.println();
 				
 			        performCalculations();
-			        System.out.print("df");
-			        System.out.print("df");
+
 			}
 			   
 
