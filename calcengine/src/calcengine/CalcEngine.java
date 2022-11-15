@@ -2,11 +2,10 @@ package calcengine;
 
 public class CalcEngine {
 	public static void main (String[] args) {
-				sdf
 			        performCalculations();
 			        System.out.print("df");
 			        System.out.print("df");
-					Ydemethod();
+					AreaHex();
 			}
 			   
 
@@ -47,15 +46,13 @@ public class CalcEngine {
 			                break;
 			        }
 			        return result;
+					}
 			    
 	}
-
-}
-
-
-public static double Ydemethod() {
-	double arr [8][8];
-	for(i=0, i<arr.length, i++) {
-		System.out.println('Java is cool')
+	public static void AreaHex() {
+		int s = 6;
+		double areaHex = (6*Math.pow(6.0, 2.0))/(4*Math.tan(Math.PI/6));
+		System.out.println(areaHex);
 	}
+
 }
