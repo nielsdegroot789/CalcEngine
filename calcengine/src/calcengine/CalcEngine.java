@@ -22,8 +22,7 @@ public class CalcEngine {
 			        for (double currentResult : results)
 			            System.out.println("result = " + currentResult);
 
-			    } 
-			    
+			    }
 			   
 			    static double execute(char opCode, double leftVal, double rightVal) {
 			        double result;
