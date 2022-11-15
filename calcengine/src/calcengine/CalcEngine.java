@@ -6,8 +6,8 @@ public class CalcEngine {
 			public static void main(String[] args) {
 				
 				// Comment from Luckie
-				System.out.println("Welcome to the calcEngine branch from Luckie");
-				System.out.println("--------------------------------------------");
+				System.out.println("Welcome to the Luckie's calcEngine branch.");
+				System.out.println("------------------------------------------");
 				System.out.println();
 				
 			        performCalculations();
