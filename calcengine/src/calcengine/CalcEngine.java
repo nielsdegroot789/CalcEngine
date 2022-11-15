@@ -5,8 +5,9 @@ public class CalcEngine {
 	
 			public static void main(String[] args) {
 				
-<<<<<<< HEAD
-				String msg = "Kenny's development branch";
+
+				String msg = "from Kenny's development branch";
+
 				msg=msg.toUpperCase();
 				
 				System.out.println("_______________________________\n");
@@ -14,14 +15,14 @@ public class CalcEngine {
 				System.out.println("_______________________________\n\n");
 				
 			       performCalculations();
-=======
+
 				// Comment from Luckie
 				System.out.println("Welcome to the Luckie's calcEngine branch.");
 				System.out.println("------------------------------------------");
 				System.out.println();
 				
 			        performCalculations();
->>>>>>> 39468290bc5e0568cb7dbae568c152c5d11f9fd6
+
 
 			}
 			   
