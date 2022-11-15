@@ -5,7 +5,7 @@ public class CalcEngine {
 	
 			public static void main(String[] args) {
 				
-				String msg = "Kenny's development branch";
+				String msg = "from Kenny's development branch";
 				msg=msg.toUpperCase();
 				
 				System.out.println("_______________________________\n");
